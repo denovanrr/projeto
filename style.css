@@ -28,7 +28,8 @@ body * {
 
 #container {
   height: 350px;
-  width: 500px;
+  max-width: 588px;
+  width: 100%;
   margin: auto;
 }
 #profile {
